@@ -1,0 +1,7 @@
+[virtual_machine]
+name = "TestVM"
+os_type = "Ubuntu_64"
+memory = 2048
+cpus = 2
+disk_size = 20000
+iso_path = "I:\\Загрузки\\ubuntu-24.04.1-live-server-amd64.iso"
